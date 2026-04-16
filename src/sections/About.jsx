@@ -47,7 +47,7 @@ export default function About() {
           <span style={{ color: t.border }}>›</span>
           <span>About Me</span>
         </div>
-        <h1 style={{ fontSize: 22, fontWeight: 700, color: t.text, marginBottom: 4 }}>About Maneeshwar</h1>
+        <h1 style={{ fontSize: 22, fontWeight: 700, color: t.text, marginBottom: 4 }}>About Me</h1>
         <p style={{ fontSize: 13, color: t.textMuted }}>Personal background · Education · Work Authorization</p>
       </div>
 
